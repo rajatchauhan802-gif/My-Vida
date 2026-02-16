@@ -1,0 +1,7 @@
+{
+  "name": "VIDA VCLE - Strategy Prototype",
+  "description": "A high-fidelity business strategy prototype for Hero MotoCorp's VIDA EV division, showcasing the Certified Lifecycle Exchange ecosystem to solve resale anxiety and create new revenue streams.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
